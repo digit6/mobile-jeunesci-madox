@@ -1,0 +1,48 @@
+html{
+    overflow: hidden;
+}
+
+body,html{
+    height: 100%;
+    font-size: 16px;
+}
+
+
+p,div,spa,ul,li,br,button,input{
+    font-size:16px;
+}
+
+#primary--color{
+    background: #11998e;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #38ef7d, #11998e);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #38ef7d, #11998e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#secondary--color{
+background: #fe8c00;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #f83600, #fe8c00);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #f83600, #fe8c00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+    cursor: pointer;
+}
+ 
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    border-radius: 10x;
+    -webkit-border-radius: 10x;
+    -moz-border-radius: 10x;
+    -ms-border-radius: 10x;
+    -o-border-radius: 10x;
+}
+ 
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    cursor: pointer;
+    background: #369c6d;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}

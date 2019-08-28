@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">jeunes.ci</string>
+    <string name="title_activity_main">jeunes.ci</string>
+    <string name="package_name">digit6.jeunes.ci</string>
+    <string name="fileprovider_authority">digit6.jeunes.ci.fileprovider</string>
+    <string name="custom_url_scheme">digit6.jeunes.ci</string>
+    <string name="facebook_app_id">2173694989319802</string>
+    <string name="fb_login_protocol_scheme">fb2173694989319802</string>
+</resources>

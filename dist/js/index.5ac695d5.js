@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["index"],{9261:function(n,t,e){"use strict";e.r(t);var u=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div")},o=[],i={mounted:function(){this.$router.push("/out")}},r=i,s=e("2877"),c=Object(s["a"])(r,u,o,!1,null,null,null);t["default"]=c.exports}}]);
+//# sourceMappingURL=index.5ac695d5.js.map

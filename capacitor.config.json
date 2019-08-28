@@ -1,0 +1,21 @@
+{
+  "appId": "digit6.jeunes.ci",
+  "appName": "jeunes.ci",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      
+      "launchAutoHide": false,
+      "backgroundColor": "#ffffffff",
+      "androidSplashResourceName": "splash",
+      "androidScaleType": "CENTER_CROP",
+      "androidSpinnerStyle": "large",
+      "iosSpinnerStyle": "small",
+      "spinnerColor": "#369c6d",
+      "showSpinner": true
+    }
+  },
+  "linuxAndroidStudioPath":"/home/cert9/android-studio/bin/studio.sh"
+}

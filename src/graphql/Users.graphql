@@ -1,0 +1,12 @@
+query{jeunes{
+    _id
+    id,
+    email
+    nom
+      contact
+      password
+      profession
+      auth
+      createdAt
+      updatedAt
+}}

@@ -1,0 +1,16 @@
+mutation($jeune:JeuneInput) {
+  createJeune(input:{data:$jeune}) {
+    jeune {
+      id
+      nom
+      email
+      auth
+      contact
+      password
+      createdAt
+      updatedAt
+      
+    }
+  }
+}
+

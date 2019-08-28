@@ -1,0 +1,18 @@
+query($email:String,$password:String)
+{
+  jeunes(where:{
+    email:$email
+  })
+  {
+     id
+    nom
+      email
+      contact
+      password
+      profession
+      auth
+      createdAt
+      updatedAt
+     
+  }
+}
