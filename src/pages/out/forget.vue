@@ -155,8 +155,8 @@ export default {
     this.$cookie.set('code',rand.generateDigits(6))
     Email.send({
     Host : "smtp.sendgrid.net",
-    Username : "ccens",
-    Password : "Azerty45@",
+    Username : "SMTP USER",
+    Password : "SMTP PASS",
     To : this.client.email,
     From : "JeunesCI <no-reply@jeunes.ci>",
     Subject : "Rénitialisation mot de passe",

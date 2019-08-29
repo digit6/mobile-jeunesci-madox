@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.6ae546450d4ecad4dceef740d3c554ca.js"
+  "/precache-manifest.30b4e6183ca8a9c440b42515f6be3981.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "jeunes.ci"});
