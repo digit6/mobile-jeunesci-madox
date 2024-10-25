@@ -58,7 +58,7 @@
     "socket.io": "^2.2.0",
     "socket.io-client": "^2.2.0",
     "vant": "^2.0.5",
-    "vue": "^2.6.10",
+    "vue": "^3.0.0",
     "vue-apollo": "^3.0.0-beta.30",
     "vue-auto-storage": "^1.8.2",
     "vue-backtotop": "^1.6.1",
